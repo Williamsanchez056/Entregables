@@ -1,3 +1,4 @@
+package Entregable2;
 public class StockInsuficienteException extends Exception {
     public StockInsuficienteException() {
         super();

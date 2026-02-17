@@ -1,3 +1,4 @@
+package Entregable2;
 public class Cliente {
     private int id;
     private String nombre;

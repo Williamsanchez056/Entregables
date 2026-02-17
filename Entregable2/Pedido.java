@@ -1,3 +1,4 @@
+package Entregable2;
 import java.util.*;
 
 public class Pedido {
@@ -32,7 +33,7 @@ public class Pedido {
         int anio = fechaCreacion.get(Calendar.YEAR);
         
 
-        
+
         return dia + "/" + mes + "/" + anio;
     }
     public double calcularTotal() {
