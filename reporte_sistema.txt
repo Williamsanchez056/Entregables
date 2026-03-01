@@ -1,0 +1,6 @@
+REPORTE DEL SISTEMA
+Total productos: 1
+Total clientes: 1
+Pendientes: 0
+Confirmados: 0
+Procesados: 0
